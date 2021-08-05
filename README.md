@@ -15,3 +15,8 @@ Note: We will start with basic text-only UI, then improve on it later on.
 - Permutations / Matrix of Tests
     - with Priorities
 
+# Process Reminder
+
+git checkout -b BRANCHNAME
+git commit -m "MESSAGE"
+git push -u origin BRANCHNAME
