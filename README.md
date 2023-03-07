@@ -17,6 +17,6 @@ Note: We will start with basic text-only UI, then improve on it later on.
 
 # Process Reminder
 
-git checkout -b BRANCHNAME
-git commit -m "MESSAGE"
-git push -u origin BRANCHNAME
+    git checkout -b BRANCHNAME
+    git commit -m "MESSAGE"
+    git push -u origin BRANCHNAME
